@@ -1,0 +1,86 @@
+.heading{
+    background-color: #E4F9F5;
+    height: 150px;
+}
+.logo{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    height: 60px;
+    width: 60px;
+}
+.signinbutton {
+    position: absolute;
+   background-color: none;
+    margin-left: 1200px;
+    margin-top: 50px;
+    min-width: 100px;
+    min-height: 40px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+}
+.signinbutton:hover{
+    background-color: rgb(142, 196, 244);
+    cursor: pointer;
+}
+.signinbutton:focus{
+    background-color: #5c5ce8;
+    box-shadow: 0 0 0 3px rgb(25, 25, 25);
+}
+.signupbutton {
+    position: absolute;
+   background-color: rgb(86, 155, 216);
+    margin-left: 1315px;
+    margin-top: 50px;
+    min-width: 100px;
+    min-height: 40px;
+    border-radius: 10px;
+    font-size: 1.4rem;
+}
+.signupbutton:hover{
+    background-color: rgb(142, 196, 244);
+    cursor: pointer;
+}
+.signupbutton:focus{
+    background-color: #5c5ce8;
+    box-shadow: 0 0 0 3px rgb(25, 25, 25);
+}
+.ads{
+    position:absolute;
+    top: 220px;
+    left: 275px;
+    width: 40%;
+}
+.backads{
+    background-color: #5c5ce8;
+    height: 400px;
+    width: 700px;
+}
+.list{
+    position:absolute;
+    margin: 150px auto auto 0;
+    width: 15%;
+    background-color: #eadfd8;
+}
+.list button{
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    border: none;
+    color: #241638;
+    font-size: 3ch;
+    font-family: 'montserrat', sans-serif;
+    text-align: center;
+}
+.list button:hover{
+    cursor: pointer;
+    background-color: #28cd54;
+}
+.promise{
+    background-color: #e5e9f0;
+    position: absolute;
+    top: 700px;
+    left: 250px;
+    height: 400px;
+    width: 1000px;
+}
