@@ -19,7 +19,7 @@ Proposed Features:
  
         3. Multi-screen responsiveness.
  
-        4. Seperate room for humans and monster guests
+        4. live auctions and biddings
 
 Tech Stack:
 
